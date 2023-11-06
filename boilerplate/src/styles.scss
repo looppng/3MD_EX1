@@ -84,13 +84,6 @@ body {
   flex: 2;
 }
 
-.bg-menu2 {
-  background-color: var(--bg-menu);
-  display: flex;
-  height: 300px;
-  width: 100pxzx;
-}
-
 @media (max-width: 768px) {
   .bg-menu {
     display: none;
